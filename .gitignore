@@ -1,0 +1,17 @@
+/build/
+/dist/
+
+*.class
+
+/nbproject/private/
+
+/nbproject/Makefile-*.mk
+/nbproject/configs/
+/nbproject/Package-*.bat
+/nbproject/Packege-*.sh
+
+*.log
+*.tmp
+
+
+
