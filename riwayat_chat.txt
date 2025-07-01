@@ -1,0 +1,74 @@
+[14 Juni 2025]
+Q: jadwal uas
+A: Di akhir semester, info resminya ada di SIADIN.
+
+[14 Juni 2025]
+Q: cetak KHS
+A: Unduh file PDF dari SIADIN, lalu print.
+
+[15 Juni 2025]
+Q: jadwal uts
+A: Sekitar pertengahan semester.
+
+[15 Juni 2025]
+Q: lihat nilai
+A: Cek di SIADIN, menu KHS atau transkrip.
+
+[16 Juni 2025]
+Q: apa itu sia
+A: Sistem Informasi Akademik untuk mengelola data kuliah mahasiswa.
+
+[16 Juni 2025]
+Q: login ke siadin
+A: Kunjungi siadin.dinus.ac.id, login pakai NIM dan password.[16 Juni 2025]
+Q: isi krs
+A: Login ke SIADIN, pilih menu KRS, lalu pilih mata kuliah yang tersedia.
+
+[16 Juni 2025]
+Q: isi krs
+A: Login ke SIADIN, pilih menu KRS, lalu pilih mata kuliah yang tersedia.
+
+[16 Juni 2025]
+Q: ada wifi
+A: Ada.[16 Juni 2025]
+Q: cara ikut ukm
+A: Datang saat open recruitment, isi formulir, dan ikuti seleksi.
+
+[16 Juni 2025]
+Q: gimana ikut ukm
+A: Pertanyaan tidak ditemukan di basis FAQ.
+
+[16 Juni 2025]
+Q: isi krs error
+A: nasib
+
+[16 Juni 2025]
+Q: gabisa input krs
+A: Pertanyaan tidak ditemukan di basis FAQ.
+
+[16 Juni 2025]
+Q: isi krs
+A: Login ke SIADIN, pilih menu KRS, lalu pilih mata kuliah yang tersedia.
+
+[17 Juni 2025]
+Q: isi krs
+A: Login ke SIADIN, pilih menu KRS, lalu pilih mata kuliah yang tersedia.
+
+[17 Juni 2025]
+Q: alamat
+A: Di Jalan Imam Bonjol No. 207, Semarang, Jawa Tengah[27 Juni 2025]
+Q: cetak khs
+A: Unduh file PDF dari SIADIN, lalu print.
+
+[27 Juni 2025]
+Q: isi krs
+A: Login ke SIADIN, pilih menu KRS, lalu pilih mata kuliah yang tersedia.
+
+[27 Juni 2025]
+Q: Jurusan TI berada di fakultas apa?
+A: Pertanyaan tidak ditemukan di basis FAQ.
+
+[27 Juni 2025]
+Q: Jurusan TI berada di fakultas apa?
+A: Jurusan TI (Teknik Informatika) itu sendiri berada di Fakultas Ilmu Komputer (FIK).
+

@@ -1,0 +1,10 @@
+chatbot\model\KnowledgeBase.class
+chatbot\view\FAQEditorDialog.class
+chatbot\strategy\AnsweringStrategy.class
+chatbot\strategy\RuleBasedStrategy.class
+chatbot\controller\ChatController.class
+chatbot\view\MainView$1.class
+chatbot\ChatbotApp.class
+chatbot\model\ChatMessage.class
+chatbot\view\MainView.class
+chatbot\model\QuestionProcessor.class
